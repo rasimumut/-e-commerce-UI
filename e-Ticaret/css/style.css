@@ -1,0 +1,50 @@
+.body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 11pt;
+     }
+
+.socialMedia {
+
+    padding: 50px;
+    font-size: 15px;
+    text-align: center;
+    text-emphasis-color: #ffffff;
+    background-color: #2196f3;
+}
+.socialMedia a
+{
+    margin-right: 5%;
+    margin-left: 5%;
+}
+ .copyright{
+    height: 3rem ;
+     background-color: lightgrey;
+     text-align:center;
+     text-align-all: center;
+     padding-top: 1rem
+ }
+
+}
+html,
+body {
+    position: relative;
+    height: 100%;
+}
+
+.swiper-container {
+    border: aqua 1.8px solid;
+    width: 100%;
+
+
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 14px;
+    background: #fff;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    -ms-flex-pack: center;
+
+
+}
